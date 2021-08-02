@@ -1,5 +1,7 @@
 ![I want to be a good developer](https://raw.githubusercontent.com/9mudontwork/9mudontwork/main/9mudontwork-banner.png)
 ### Hi there 👋, my name is Muhammad
+![i3acksp4ce](https://img.shields.io/badge/code-i3acksp4ce-%230078D6)
+![9mudontwork](https://img.shields.io/badge/code-9mudontwork-%230078D6)
 #### I want to be a good developer. I write code because I enjoy it.
 
 ### Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
