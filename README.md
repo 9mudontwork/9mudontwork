@@ -1,4 +1,3 @@
-![I want to be a good developer](https://raw.githubusercontent.com/9mudontwork/9mudontwork/main/9mudontwork-banner.png)
 ### Hi there 👋, my name is Muhammad
 ![i3acksp4ce](https://img.shields.io/badge/code-i3acksp4ce-%230078D6)
 ![9mudontwork](https://img.shields.io/badge/code-9mudontwork-%230078D6)
