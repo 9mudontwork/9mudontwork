@@ -5,11 +5,11 @@
 
 <a href="https://app.daily.dev/i3acksp4ce"><img src="https://github.com/9mudontwork/9mudontwork/blob/main/devcard.svg" width="300" alt="muhammad imoeb's Dev Card"/></a>
 
-### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Skills 
+### Skills 
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,html,css,md,js,ts,jquery,react,redux,nextjs,gatsby,vue,nuxtjs,angular,remix,alpinejs,svelte,astro,graphql,prisma,nodejs,express,styledcomponents,emotion,go,php,laravel,py,sass,tailwind,windicss,bootstrap,flutter,raspberrypi,cs,wordpress,docker,mysql,postgres,mongodb,firebase,netlify,aws,gcp,azure,cloudflare&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,stackoverflow,git,html,css,md,js,ts,webpack,vite,jquery,react,redux,nextjs,gatsby,vue,nuxtjs,angular,remix,alpinejs,svelte,astro,graphql,prisma,nodejs,express,styledcomponents,emotion,go,php,laravel,py,sass,tailwind,windicss,bootstrap,flutter,raspberrypi,cs,wordpress,docker,mysql,postgres,mongodb,firebase,netlify,gcp,cloudflare&perline=8)](https://skillicons.dev)
 
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> My GitHub Stats 
+### My GitHub Stats 
 ![](https://github-readme-stats.vercel.app/api?username=9mudontwork&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=9mudontwork&theme=radical&hide_border=false)<br/>
 ![](https://github-profile-trophy.vercel.app/?username=9mudontwork&theme=radical&no-frame=false&no-bg=false&margin-w=4)
