@@ -14,7 +14,7 @@
 [![My Skills](https://skillicons.dev/icons?i=go,python&perline=8)](https://skillicons.dev)
 
 
-### Experienced
+### knowledge
 
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,jquery,emotion,express,laravel,materialui,nextjs,nuxtjs,react,sass,styledcomponents,svelte,tailwind,vue,alpinejs,wordpress&perline=8)](https://skillicons.dev)
 
