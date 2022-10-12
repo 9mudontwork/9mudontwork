@@ -16,7 +16,7 @@
 
 ### knowledge
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,jquery,emotion,express,laravel,materialui,nextjs,nuxtjs,react,sass,styledcomponents,svelte,tailwind,vue,alpinejs,wordpress&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,jquery,emotion,express,laravel,nextjs,nuxtjs,react,sass,styledcomponents,svelte,tailwind,vue,alpinejs,wordpress&perline=8)](https://skillicons.dev)
 
 
 ### Tools
