@@ -1,4 +1,3 @@
-### Hi there 👋, my name is Muhammad
 ![i3acksp4ce](https://img.shields.io/badge/code-i3acksp4ce-%230078D6)
 ![9mudontwork](https://img.shields.io/badge/code-9mudontwork-%230078D6)
 
@@ -16,12 +15,12 @@
 
 ### knowledge
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,jquery,emotion,express,laravel,nextjs,nuxtjs,react,sass,styledcomponents,svelte,tailwind,vue,alpinejs,wordpress&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,jquery,emotion,laravel,nextjs,nuxtjs,react,sass,styledcomponents,svelte,tailwind,vue,alpinejs,wordpress&perline=8)](https://skillicons.dev)
 
 
 ### Tools
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,cloudflare,docker,firebase,gcp,mysql,nodejs,postgres,vite,webpack,raspberrypi,netlify&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,cloudflare,docker,firebase,gcp,mysql,nodejs,postgres,vite,webpack&perline=8)](https://skillicons.dev)
 
 
 ### Version Control
