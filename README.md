@@ -5,12 +5,12 @@
 
 ### Mastery 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,md&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,md&perline=8)](https://skillicons.dev)
 
 
 ### Intermediate 
 
-[![My Skills](https://skillicons.dev/icons?i=go,python&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,go,python&perline=8)](https://skillicons.dev)
 
 
 ### knowledge
