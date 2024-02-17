@@ -1,7 +1,7 @@
 ![i3acksp4ce](https://img.shields.io/badge/code-i3acksp4ce-%230078D6)
 ![9mudontwork](https://img.shields.io/badge/code-9mudontwork-%230078D6)
 
-<a href="https://app.daily.dev/i3acksp4ce"><img src="https://github.com/9mudontwork/9mudontwork/blob/main/devcard.svg" width="300" alt="muhammad imoeb's Dev Card"/></a>
+<a href="https://app.daily.dev/i3acksp4ce"><img src="https://api.daily.dev/devcards/v2/IF0h7kit5aUJDDV5PQB8H.png?type=default&r=yl2" width="356" alt="Muhammad Imoeb's Dev Card"/></a>
 
 ### Mastery 
 
